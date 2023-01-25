@@ -1,0 +1,7 @@
+#After install scribus then
+
+  sudo nano /usr/share/applications/scribus.desktop
+
+#Edit 
+    
+  Exec = scribus --no-splash %f 
